@@ -1,4 +1,4 @@
-# Animal-Color-Path
+# Animal-Coluor-Path
 
 Abstract
 Colouration is often useful for distinguishing between closely related species, or
